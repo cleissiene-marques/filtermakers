@@ -1,6 +1,6 @@
 export const SITE_URL = "https://filtermakers.com.br";
 export const SITE_NAME = "Filter Makers IPTV";
-export const WHATSAPP_NUMBER = "5589981175065";
+export const WHATSAPP_NUMBER = "5511950599356";
 export const CONTACT_EMAIL = "contato@filtermakers.com.br";
 export const GA_MEASUREMENT_ID = "G-JJK0NWX4DS";
 
